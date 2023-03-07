@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Lottery_program</string>
     <string name="generate">Generate</string>
+    <string name="lottery_program">Lottery Program</string>
 </resources>
